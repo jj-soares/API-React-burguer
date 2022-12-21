@@ -2,7 +2,7 @@
 
 ```bash 
 # Clone Repository
-$ git clone
+$ git clone https://github.com/jj-soares/API-React-burguer/tree/master
 
 # Install Dependencies
 $ yarn install or npm install
